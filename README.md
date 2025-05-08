@@ -34,6 +34,19 @@ Steps:
 
 * Applies perspective warping to align images
 
+## 🧠 Key Concepts
+* Image gradient filtering using Laplacian variance
+
+* Edge maps and binary thresholding
+
+* Line detection via probabilistic Hough transform
+
+* Homography estimation from feature matches
+
+* Panoramic warping with forward compositing
+
+* Robust estimation with RANSAC
+
 * Sequentially stitches multiple images into a panorama
 
 📸 Tested on 4 overlapping landscape images.
